@@ -1,4 +1,5 @@
-<h1>Jo-el</h1>
+![Jo-el Logo](https://jo-el.es/static/icons/logo.svg)
+
 
 Jo-el es una plataforma web que ofrece un repositorio de problemas para practicar en varios lenguajes, aprender o incluso participar en concursos. Es una plataforma open source y colaborativa.
 
